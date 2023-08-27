@@ -1,0 +1,21 @@
+.cart__container {
+  height: auto;
+  width: 5rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  color: black;
+
+  .cart__icon {
+    width: 50px;
+  }
+
+  .cart__counter {
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+    ;
+  }
+}

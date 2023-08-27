@@ -1,0 +1,30 @@
+
+
+.cartItems{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.emptyCart {
+    padding: 5px;
+    background-color: crimson;
+    margin: 5px;
+}
+
+.removeButton {
+    background-color: transparent;
+}
+
+.finishPurchase{
+    padding: 5px;
+    background-color: lightskyblue;
+    color: black;
+    border: solid 2px black;
+    margin: 5px;
+}

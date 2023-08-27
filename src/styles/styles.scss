@@ -1,0 +1,19 @@
+@import "./components/NavBar";
+@import "./components/CartWidget";
+@import "./components/ItemListContainer";
+@import "./components/ItemDetail";
+@import "./components/Nosotros";
+@import "./components/ItemCard";
+@import "./components/Buscador";
+@import "./components/Cart";
+@import "./components/Checkout";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #900C3F;
+}

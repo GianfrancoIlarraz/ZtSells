@@ -1,0 +1,36 @@
+.itemCard {
+  border: 4px solid #69001e;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50% 1fr;
+  background-color: #a3002e;
+  border-radius: 15px;
+  // width: 30%;
+  // background-color: #F8DE22;
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+  // border-radius: 4%;
+  a {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    img {
+      border-radius: 10px;
+    }
+  }
+}
+
+.cardInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  overflow-y: hidden;
+  p {
+    overflow-y: hidden;
+  }
+  
+}
+

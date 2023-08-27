@@ -1,0 +1,892 @@
+[
+  {
+    "ID": 1,
+    "Nombre": "Silla Kj1",
+    "Precio": 11375,
+    "Descripcion": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 3
+  },
+  {
+    "ID": 2,
+    "Nombre": "Iluminacion Jh2",
+    "Precio": 18995,
+    "Descripcion": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "otros",
+    "stock": 20
+  },
+  {
+    "ID": 3,
+    "Nombre": "Silla Bi5",
+    "Precio": 16572,
+    "Descripcion": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 18
+  },
+  {
+    "ID": 4,
+    "Nombre": "Escritorio Ii9",
+    "Precio": 17776,
+    "Descripcion": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 22
+  },
+  {
+    "ID": 5,
+    "Nombre": "Cable Ea1",
+    "Precio": 3653,
+    "Descripcion": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 17
+  },
+  {
+    "ID": 6,
+    "Nombre": "Cable Id9",
+    "Precio": 9191,
+    "Descripcion": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 12
+  },
+  {
+    "ID": 7,
+    "Nombre": "Silla Gk1",
+    "Precio": 7033,
+    "Descripcion": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 32
+  },
+  {
+    "ID": 8,
+    "Nombre": "Cable Ha2",
+    "Precio": 1576,
+    "Descripcion": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 38
+  },
+  {
+    "ID": 9,
+    "Nombre": "Silla Ig1",
+    "Precio": 14619,
+    "Descripcion": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 9
+  },
+  {
+    "ID": 10,
+    "Nombre": "Cable Fg3",
+    "Precio": 9751,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 21
+  },
+  {
+    "ID": 11,
+    "Nombre": "Escritorio Gi2",
+    "Precio": 15911,
+    "Descripcion": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "otros",
+    "stock": 23
+  },
+  {
+    "ID": 12,
+    "Nombre": "Iluminacion Ij4",
+    "Precio": 10016,
+    "Descripcion": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "otros",
+    "stock": 34
+  },
+  {
+    "ID": 13,
+    "Nombre": "Cable Fd2",
+    "Precio": 13410,
+    "Descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "otros",
+    "stock": 4
+  },
+  {
+    "ID": 14,
+    "Nombre": "Cable Ei4",
+    "Precio": 968,
+    "Descripcion": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 32
+  },
+  {
+    "ID": 15,
+    "Nombre": "Silla Jf1",
+    "Precio": 5108,
+    "Descripcion": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 20
+  },
+  {
+    "ID": 16,
+    "Nombre": "Escritorio Ca7",
+    "Precio": 7234,
+    "Descripcion": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 40
+  },
+  {
+    "ID": 17,
+    "Nombre": "Escritorio Cd5",
+    "Precio": 5880,
+    "Descripcion": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 3
+  },
+  {
+    "ID": 18,
+    "Nombre": "Cable Ef8",
+    "Precio": 16605,
+    "Descripcion": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 17
+  },
+  {
+    "ID": 19,
+    "Nombre": "Iluminacion Ae1",
+    "Precio": 19170,
+    "Descripcion": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 9
+  },
+  {
+    "ID": 20,
+    "Nombre": "Silla Aa5",
+    "Precio": 11035,
+    "Descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 25
+  },
+  {
+    "ID": 21,
+    "Nombre": "Iluminacion Jk1",
+    "Precio": 12786,
+    "Descripcion": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 2
+  },
+  {
+    "ID": 22,
+    "Nombre": "Silla Ba4",
+    "Precio": 17745,
+    "Descripcion": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "otros",
+    "stock": 22
+  },
+  {
+    "ID": 23,
+    "Nombre": "Escritorio Ae8",
+    "Precio": 15392,
+    "Descripcion": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 6
+  },
+  {
+    "ID": 24,
+    "Nombre": "Cable Ib9",
+    "Precio": 15973,
+    "Descripcion": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "otros",
+    "stock": 37
+  },
+  {
+    "ID": 25,
+    "Nombre": "Silla Eg2",
+    "Precio": 8908,
+    "Descripcion": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "otros",
+    "stock": 7
+  },
+  {
+    "ID": 26,
+    "Nombre": "Iluminacion Db9",
+    "Precio": 6849,
+    "Descripcion": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "otros",
+    "stock": 28
+  },
+  {
+    "ID": 27,
+    "Nombre": "Cable Gb5",
+    "Precio": 3919,
+    "Descripcion": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 23
+  },
+  {
+    "ID": 28,
+    "Nombre": "Cable Ii6",
+    "Precio": 3717,
+    "Descripcion": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "otros",
+    "stock": 24
+  },
+  {
+    "ID": 29,
+    "Nombre": "Escritorio Dg9",
+    "Precio": 12150,
+    "Descripcion": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "otros",
+    "stock": 5
+  },
+  {
+    "ID": 30,
+    "Nombre": "Silla He1",
+    "Precio": 12671,
+    "Descripcion": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "otros",
+    "stock": 22
+  },
+  {
+    "ID": 31,
+    "Nombre": "Escritorio Kj8",
+    "Precio": 8466,
+    "Descripcion": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "otros",
+    "stock": 11
+  },
+  {
+    "ID": 32,
+    "Nombre": "Escritorio Fc4",
+    "Precio": 3937,
+    "Descripcion": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "otros",
+    "stock": 40
+  },
+  {
+    "ID": 33,
+    "Nombre": "Iluminacion Ga8",
+    "Precio": 17112,
+    "Descripcion": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "otros",
+    "stock": 34
+  },
+  {
+    "ID": 34,
+    "Nombre": "Procesador Fk5",
+    "Precio": 6690,
+    "Descripcion": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "hardware",
+    "stock": 3
+  },
+  {
+    "ID": 35,
+    "Nombre": "Disco duro Gb8",
+    "Precio": 5076,
+    "Descripcion": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 5
+  },
+  {
+    "ID": 36,
+    "Nombre": "Procesador Ic1",
+    "Precio": 17387,
+    "Descripcion": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 26
+  },
+  {
+    "ID": 37,
+    "Nombre": "Memoria RAM Ja9",
+    "Precio": 4208,
+    "Descripcion": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 13
+  },
+  {
+    "ID": 38,
+    "Nombre": "Procesador Be4",
+    "Precio": 3766,
+    "Descripcion": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 30
+  },
+  {
+    "ID": 39,
+    "Nombre": "Tarjeta de video Ga1",
+    "Precio": 10300,
+    "Descripcion": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 27
+  },
+  {
+    "ID": 40,
+    "Nombre": "Disco duro Da4",
+    "Precio": 11688,
+    "Descripcion": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 32
+  },
+  {
+    "ID": 41,
+    "Nombre": "Procesador Af1",
+    "Precio": 6135,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 24
+  },
+  {
+    "ID": 42,
+    "Nombre": "Tarjeta de video Ki8",
+    "Precio": 11108,
+    "Descripcion": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 23
+  },
+  {
+    "ID": 43,
+    "Nombre": "Disco duro Dd8",
+    "Precio": 5549,
+    "Descripcion": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 26
+  },
+  {
+    "ID": 44,
+    "Nombre": "Motherboard Gd9",
+    "Precio": 5145,
+    "Descripcion": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 4
+  },
+  {
+    "ID": 45,
+    "Nombre": "Disco duro Cj8",
+    "Precio": 1595,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "hardware",
+    "stock": 11
+  },
+  {
+    "ID": 46,
+    "Nombre": "Tarjeta de video Gh8",
+    "Precio": 15398,
+    "Descripcion": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 32
+  },
+  {
+    "ID": 47,
+    "Nombre": "Memoria RAM Ed9",
+    "Precio": 5032,
+    "Descripcion": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "hardware",
+    "stock": 8
+  },
+  {
+    "ID": 48,
+    "Nombre": "Procesador Fj3",
+    "Precio": 1832,
+    "Descripcion": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 35
+  },
+  {
+    "ID": 49,
+    "Nombre": "Memoria RAM Jk3",
+    "Precio": 563,
+    "Descripcion": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 21
+  },
+  {
+    "ID": 50,
+    "Nombre": "Procesador Hc9",
+    "Precio": 17042,
+    "Descripcion": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 31
+  },
+  {
+    "ID": 51,
+    "Nombre": "Disco duro Gh4",
+    "Precio": 11359,
+    "Descripcion": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "hardware",
+    "stock": 7
+  },
+  {
+    "ID": 52,
+    "Nombre": "Tarjeta de video Ci1",
+    "Precio": 7113,
+    "Descripcion": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 37
+  },
+  {
+    "ID": 53,
+    "Nombre": "Procesador Gb3",
+    "Precio": 5344,
+    "Descripcion": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 22
+  },
+  {
+    "ID": 54,
+    "Nombre": "Motherboard Eb4",
+    "Precio": 3963,
+    "Descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 36
+  },
+  {
+    "ID": 55,
+    "Nombre": "Disco duro Ek6",
+    "Precio": 18197,
+    "Descripcion": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 5
+  },
+  {
+    "ID": 56,
+    "Nombre": "Motherboard Ij2",
+    "Precio": 4957,
+    "Descripcion": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 9
+  },
+  {
+    "ID": 57,
+    "Nombre": "Disco duro Jk8",
+    "Precio": 9146,
+    "Descripcion": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 36
+  },
+  {
+    "ID": 58,
+    "Nombre": "Motherboard Gk5",
+    "Precio": 19651,
+    "Descripcion": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 23
+  },
+  {
+    "ID": 59,
+    "Nombre": "Motherboard Fb8",
+    "Precio": 16406,
+    "Descripcion": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 13
+  },
+  {
+    "ID": 60,
+    "Nombre": "Disco duro Fi8",
+    "Precio": 14795,
+    "Descripcion": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "hardware",
+    "stock": 2
+  },
+  {
+    "ID": 61,
+    "Nombre": "Tarjeta de video Ke5",
+    "Precio": 14561,
+    "Descripcion": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 18
+  },
+  {
+    "ID": 62,
+    "Nombre": "Procesador Ak6",
+    "Precio": 15362,
+    "Descripcion": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 3
+  },
+  {
+    "ID": 63,
+    "Nombre": "Tarjeta de video Ca5",
+    "Precio": 3306,
+    "Descripcion": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 26
+  },
+  {
+    "ID": 64,
+    "Nombre": "Tarjeta de video Db8",
+    "Precio": 4706,
+    "Descripcion": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "hardware",
+    "stock": 6
+  },
+  {
+    "ID": 65,
+    "Nombre": "Disco duro Cb3",
+    "Precio": 9913,
+    "Descripcion": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "hardware",
+    "stock": 34
+  },
+  {
+    "ID": 66,
+    "Nombre": "Procesador Be5",
+    "Precio": 16459,
+    "Descripcion": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "hardware",
+    "stock": 13
+  },
+  {
+    "ID": 67,
+    "Nombre": "Mouse Af5",
+    "Precio": 914,
+    "Descripcion": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 2
+  },
+  {
+    "ID": 68,
+    "Nombre": "Teclado Ah1",
+    "Precio": 19294,
+    "Descripcion": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 14
+  },
+  {
+    "ID": 69,
+    "Nombre": "Mouse Ea9",
+    "Precio": 2832,
+    "Descripcion": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "perifericos",
+    "stock": 28
+  },
+  {
+    "ID": 70,
+    "Nombre": "Camara Id9",
+    "Precio": 1160,
+    "Descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 37
+  },
+  {
+    "ID": 71,
+    "Nombre": "Microfono Cf7",
+    "Precio": 12727,
+    "Descripcion": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 5
+  },
+  {
+    "ID": 72,
+    "Nombre": "Auriculares Jb9",
+    "Precio": 14233,
+    "Descripcion": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 13
+  },
+  {
+    "ID": 73,
+    "Nombre": "Microfono Fj8",
+    "Precio": 5437,
+    "Descripcion": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "perifericos",
+    "stock": 24
+  },
+  {
+    "ID": 74,
+    "Nombre": "Auriculares Dj7",
+    "Precio": 3518,
+    "Descripcion": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 4
+  },
+  {
+    "ID": 75,
+    "Nombre": "Teclado Dh7",
+    "Precio": 18611,
+    "Descripcion": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 23
+  },
+  {
+    "ID": 76,
+    "Nombre": "Camara Bh3",
+    "Precio": 13554,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "perifericos",
+    "stock": 6
+  },
+  {
+    "ID": 77,
+    "Nombre": "Teclado Kj3",
+    "Precio": 4384,
+    "Descripcion": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 31
+  },
+  {
+    "ID": 78,
+    "Nombre": "Auriculares Kk3",
+    "Precio": 14898,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "perifericos",
+    "stock": 7
+  },
+  {
+    "ID": 79,
+    "Nombre": "Teclado Ha2",
+    "Precio": 7897,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 40
+  },
+  {
+    "ID": 80,
+    "Nombre": "Camara Bj8",
+    "Precio": 6755,
+    "Descripcion": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 24
+  },
+  {
+    "ID": 81,
+    "Nombre": "Teclado Af3",
+    "Precio": 13524,
+    "Descripcion": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "perifericos",
+    "stock": 3
+  },
+  {
+    "ID": 82,
+    "Nombre": "Camara Ed1",
+    "Precio": 14859,
+    "Descripcion": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 33
+  },
+  {
+    "ID": 83,
+    "Nombre": "Teclado If6",
+    "Precio": 6527,
+    "Descripcion": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 1
+  },
+  {
+    "ID": 84,
+    "Nombre": "Auriculares Jd2",
+    "Precio": 5381,
+    "Descripcion": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 10
+  },
+  {
+    "ID": 85,
+    "Nombre": "Camara Kg1",
+    "Precio": 17764,
+    "Descripcion": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 9
+  },
+  {
+    "ID": 86,
+    "Nombre": "Camara Ek7",
+    "Precio": 16440,
+    "Descripcion": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 29
+  },
+  {
+    "ID": 87,
+    "Nombre": "Auriculares Bk7",
+    "Precio": 8514,
+    "Descripcion": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 7
+  },
+  {
+    "ID": 88,
+    "Nombre": "Teclado Ca6",
+    "Precio": 17232,
+    "Descripcion": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 6
+  },
+  {
+    "ID": 89,
+    "Nombre": "Mouse Dh6",
+    "Precio": 18636,
+    "Descripcion": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 34
+  },
+  {
+    "ID": 90,
+    "Nombre": "Microfono Ke9",
+    "Precio": 6848,
+    "Descripcion": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 10
+  },
+  {
+    "ID": 91,
+    "Nombre": "Microfono Id7",
+    "Precio": 5375,
+    "Descripcion": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 22
+  },
+  {
+    "ID": 92,
+    "Nombre": "Auriculares Bg2",
+    "Precio": 508,
+    "Descripcion": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "img": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+    "Categoria": "perifericos",
+    "stock": 3
+  },
+  {
+    "ID": 93,
+    "Nombre": "Teclado Ah4",
+    "Precio": 18150,
+    "Descripcion": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 31
+  },
+  {
+    "ID": 94,
+    "Nombre": "Auriculares Gi1",
+    "Precio": 15355,
+    "Descripcion": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 3
+  },
+  {
+    "ID": 95,
+    "Nombre": "Microfono He6",
+    "Precio": 7408,
+    "Descripcion": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 18
+  },
+  {
+    "ID": 96,
+    "Nombre": "Microfono De9",
+    "Precio": 13572,
+    "Descripcion": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "img": "http://dummyimage.com/300x300.png/dddddd/000000",
+    "Categoria": "perifericos",
+    "stock": 16
+  },
+  {
+    "ID": 97,
+    "Nombre": "Auriculares Dj6",
+    "Precio": 11101,
+    "Descripcion": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 23
+  },
+  {
+    "ID": 98,
+    "Nombre": "Mouse Bf2",
+    "Precio": 13137,
+    "Descripcion": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "img": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+    "Categoria": "perifericos",
+    "stock": 3
+  },
+  {
+    "ID": 99,
+    "Nombre": "Mouse Fh7",
+    "Precio": 6936,
+    "Descripcion": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "img": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+    "Categoria": "perifericos",
+    "stock": 33
+  }]
